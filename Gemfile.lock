@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    blankslate (2.1.2.4)
+    ffi (1.0.11)
+    pygments.rb (0.2.13)
+      rubypython (~> 0.5.3)
+    redcarpet (2.1.1)
+    rubypython (0.5.3)
+      blankslate (>= 2.1.2.3)
+      ffi (~> 1.0.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  pygments.rb
+  redcarpet
